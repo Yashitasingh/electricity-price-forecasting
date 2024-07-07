@@ -1,6 +1,6 @@
 # Electrical Price Projection Model
 
-**Learning Project: Engineering Analysis and Design**[DOCX](https://github.com/Yashitasingh/electricity-price-forecasting/blob/main/Project_report_EAD.docx)
+**Learning Project: Engineering Analysis and Design** [DOCX](https://github.com/Yashitasingh/electricity-price-forecasting/raw/main/Project_report_EAD.docx)
 
 
 <img src="ss/Graph_new.jpg" alt="forecast analysis" width="50%"></img>
